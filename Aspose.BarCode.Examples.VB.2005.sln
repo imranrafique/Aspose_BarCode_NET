@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProgrammersGuide", "ProgrammersGuide", "{EADCB22C-F356-4E23-B74C-7B5A8CFE5574}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PPT", "PPT", "{F455796D-14C0-47A2-9080-95078776F102}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Introduction", "Introduction", "{AD188A8D-07D2-4E46-91D6-C73775525C08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DOM", "DOM", "{5C820383-2E69-4141-A84A-41CAC87C7FE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PPTX", "PPTX", "{08B92CCD-815A-4CE5-9A92-A01C2E8F05A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42A54A13-5C0D-4D76-B45F-4A9D36AD5701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A54A13-5C0D-4D76-B45F-4A9D36AD5701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A54A13-5C0D-4D76-B45F-4A9D36AD5701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F455796D-14C0-47A2-9080-95078776F102} = {EADCB22C-F356-4E23-B74C-7B5A8CFE5574}
+		{AD188A8D-07D2-4E46-91D6-C73775525C08} = {F455796D-14C0-47A2-9080-95078776F102}
+		{42A54A13-5C0D-4D76-B45F-4A9D36AD5701} = {AD188A8D-07D2-4E46-91D6-C73775525C08}
+		{5C820383-2E69-4141-A84A-41CAC87C7FE3} = {AD188A8D-07D2-4E46-91D6-C73775525C08}
+		{08B92CCD-815A-4CE5-9A92-A01C2E8F05A0} = {EADCB22C-F356-4E23-B74C-7B5A8CFE5574}
+	EndGlobalSection
+EndGlobal

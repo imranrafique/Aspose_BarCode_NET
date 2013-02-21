@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProgrammersGuide", "ProgrammersGuide", "{EADCB22C-F356-4E23-B74C-7B5A8CFE5574}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Working with Barcode Image", "Working with Barcode Image", "{86815262-4040-4A3B-AB2F-2DB70AB925FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Barcode Image Utility Features", "Barcode Image Utility Features", "{F3F1FFA2-5494-4E49-A509-E36358C8F918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveBarcodeImagestodifferentFormats", "ProgrammersGuide\Working with Barcode Image\Barcode Image Utility Features\Save Barcode Images to different Formats\SaveBarcodeImagestodifferentFormats.csproj", "{6CC914A7-39F0-4124-8553-DEEDA01E582C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC914A7-39F0-4124-8553-DEEDA01E582C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC914A7-39F0-4124-8553-DEEDA01E582C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC914A7-39F0-4124-8553-DEEDA01E582C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC914A7-39F0-4124-8553-DEEDA01E582C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{86815262-4040-4A3B-AB2F-2DB70AB925FF} = {EADCB22C-F356-4E23-B74C-7B5A8CFE5574}
+		{F3F1FFA2-5494-4E49-A509-E36358C8F918} = {86815262-4040-4A3B-AB2F-2DB70AB925FF}
+		{6CC914A7-39F0-4124-8553-DEEDA01E582C} = {F3F1FFA2-5494-4E49-A509-E36358C8F918}
+	EndGlobalSection
+EndGlobal

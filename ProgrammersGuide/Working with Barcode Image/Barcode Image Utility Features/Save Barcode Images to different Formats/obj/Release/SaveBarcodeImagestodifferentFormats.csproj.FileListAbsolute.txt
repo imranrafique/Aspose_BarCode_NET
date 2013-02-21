@@ -1,0 +1,6 @@
+C:\ExampleManager\Aspose_BarCode_NET\ProgrammersGuide\Working with Barcode Image\Barcode Image Utility Features\Save Barcode Images to different Formats\bin\Release\SaveBarcodeImagestodifferentFormats.exe
+C:\ExampleManager\Aspose_BarCode_NET\ProgrammersGuide\Working with Barcode Image\Barcode Image Utility Features\Save Barcode Images to different Formats\bin\Release\SaveBarcodeImagestodifferentFormats.pdb
+C:\ExampleManager\Aspose_BarCode_NET\ProgrammersGuide\Working with Barcode Image\Barcode Image Utility Features\Save Barcode Images to different Formats\bin\Release\Aspose.BarCode.dll
+C:\ExampleManager\Aspose_BarCode_NET\ProgrammersGuide\Working with Barcode Image\Barcode Image Utility Features\Save Barcode Images to different Formats\obj\Release\ResolveAssemblyReference.cache
+C:\ExampleManager\Aspose_BarCode_NET\ProgrammersGuide\Working with Barcode Image\Barcode Image Utility Features\Save Barcode Images to different Formats\obj\Release\SaveBarcodeImagestodifferentFormats.exe
+C:\ExampleManager\Aspose_BarCode_NET\ProgrammersGuide\Working with Barcode Image\Barcode Image Utility Features\Save Barcode Images to different Formats\obj\Release\SaveBarcodeImagestodifferentFormats.pdb
